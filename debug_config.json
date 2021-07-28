@@ -1,0 +1,10 @@
+{
+    "environment": "test",
+    "display": true,
+    "service_id": "person",
+    "data": {
+        "1bfa0d51c4984801bb4ddbd760bfe9c5": { 
+            "link": "file:///home/diycam/Documents/deepstream/streams/sample_720p.mp4"
+        }
+    }
+}
